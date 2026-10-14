@@ -1,0 +1,12 @@
+# 旧WordPress時代のURL → 新サイトへ転送（Cloudflare Pages）
+/service                                   /                    301
+/service/                                  /                    301
+/event-communecup                          /                    301
+/event-communecup/                         /                    301
+/about/                                    /about               301
+/contact                                   /about               301
+/contact/                                  /about               301
+/wp/wp-content/uploads/2023/01/ogp.jpg     /assets/img/ogp.jpg  301
+/wp/*                                      /                    301
+/feed                                      /                    301
+/feed/                                     /                    301
